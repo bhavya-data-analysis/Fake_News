@@ -6,7 +6,7 @@ import streamlit as st
 import requests
 from bs4 import BeautifulSoup
 
-import tensorflow as tf
+import tensorflow_cpu as tf
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
