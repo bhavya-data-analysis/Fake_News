@@ -1,6 +1,6 @@
 streamlit==1.22.0
 tensorflow-cpu==2.11.0
-protobuf==3.20.3
+protobuf==3.19.6
 scikit-learn
 pandas
 numpy
